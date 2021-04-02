@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ec3ebf5-efb3-4bd1-af61-d6a737669a26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hubot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nycrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/images/icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/images/widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/images/widgets@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/assets/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_brain.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_datastores_memory.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_listener.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_listener.textlistener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.catchallmessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.entermessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.leavemessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.textmessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_message.topicmessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_middleware.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_response.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_robot.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_types_adapter.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_types_datastore.datastoreunavailable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_types_datastore.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/classes/src_user.default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/es2015.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_adapters_campfire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_adapters_shell.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_brain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_datastores_memory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_listener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_middleware.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_response.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_types_adapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_types_datastore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-doc/modules/src_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/hubot-cli.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/hubot.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/main.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/search.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/search.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/api-doc/assets/js/search.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot-cli.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot-cli.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot-cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot-cli.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bin/hubot.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/es2015.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/es2015.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/es2015.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/es2015.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/campfire.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/campfire.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/campfire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/campfire.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/shell.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/shell.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/shell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/adapters/shell.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/brain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/brain.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/brain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/brain.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/datastores/memory.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/datastores/memory.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/datastores/memory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/datastores/memory.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/listener.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/listener.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/listener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/listener.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/message.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/message.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/message.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/middleware.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/middleware.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/middleware.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/response.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/response.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/response.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/robot.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/robot.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/robot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/robot.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/adapter.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/adapter.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/adapter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/datastore.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/datastore.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/datastore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/types/datastore.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/user.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/user.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/src/user.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/adapter_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/adapter_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/adapter_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/adapter_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/brain_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/brain_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/brain_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/brain_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/datastore_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/datastore_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/datastore_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/datastore_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/es2015_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/es2015_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/es2015_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/es2015_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/fixtures/mock-adapter.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/fixtures/mock-adapter.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/fixtures/mock-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/fixtures/mock-adapter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/listener_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/listener_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/listener_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/listener_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/message_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/message_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/message_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/message_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/middleware_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/middleware_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/middleware_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/middleware_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/robot_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/robot_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/robot_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/robot_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/user_test.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/user_test.d.ts.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/user_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/test/user_test.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/tsconfig.tsbuildinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2015.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastores/memory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/adapter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/mock-adapter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hubot" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hubot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hubot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es2015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapters/campfire.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapters/campfire.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapters/shell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapters/shell.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/brain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/brain.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/datastore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastores/memory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/message.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/response.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/response.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/robot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/robot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/adapter_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/adapter_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/brain_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/brain_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/datastore_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/datastore_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/es2015_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/es2015_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/mock-adapter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/listener_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/listener_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/message_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/message_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/middleware_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/middleware_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/robot_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/robot_test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/user_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/user_test.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.15.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mnffUyvFGfE96JwOkVREh4ZBEL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/standard" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6183908" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/bin" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/types" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.tests">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretest" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="pretest" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="hubot/es2015.exports Robot class" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/es2015_test.ts</test-file>
+      <test-names>
+        <name value="hubot/es2015" />
+        <name value="exports Robot class" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="hubot/es2015.exports loadBot function" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/es2015_test.ts</test-file>
+      <test-names>
+        <name value="hubot/es2015" />
+        <name value="exports loadBot function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="mocha-javascript-test-runner" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>dist/test</test-directory>
+      <recursive>false</recursive>
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="build" run_configuration_type="js.build_tools.npm" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.tests" />
+      <item itemvalue="Mocha.hubot/es2015.exports Robot class" />
+      <item itemvalue="Mocha.hubot/es2015.exports loadBot function" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.pretest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.tests" />
+        <item itemvalue="npm.pretest" />
+        <item itemvalue="Mocha.hubot/es2015.exports loadBot function" />
+        <item itemvalue="Mocha.hubot/es2015.exports Robot class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec3ebf5-efb3-4bd1-af61-d6a737669a26" name="Default Changelist" comment="" />
+      <created>1610134379177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610134379177</updated>
+      <workItem from="1610134380514" duration="12034000" />
+      <workItem from="1610390312311" duration="5197000" />
+      <workItem from="1610403364775" duration="40234000" />
+      <workItem from="1610980244139" duration="3938000" />
+      <workItem from="1612385935195" duration="740000" />
+      <workItem from="1613757186456" duration="13000" />
+      <workItem from="1614717947181" duration="251000" />
+      <workItem from="1617400502736" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
